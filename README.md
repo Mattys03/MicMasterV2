@@ -1,8 +1,8 @@
 # MicMaster Pro
 
 <div align="center">
-  <a href="https://github.com/Mattys03/MicMasterV2/archive/refs/heads/master.zip">
-    <img src="https://img.shields.io/badge/📥_Download_Latest_Version-0078D4?style=for-the-badge&logo=github" alt="Download ZIP" />
+  <a href="https://github.com/Mattys03/MicMasterV2/releases/latest">
+    <img src="https://img.shields.io/badge/📦_Download_Release-0078D4?style=for-the-badge&logo=github" alt="Download Release" />
   </a>
 </div>
 
