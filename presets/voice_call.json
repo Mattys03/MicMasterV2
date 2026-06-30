@@ -1,0 +1,22 @@
+{
+    "name": "Chamada de Voz",
+    "description": "Para Discord, Google Meet, etc. Compressão forte para volume super consistente.",
+    "gate_enabled": true,
+    "gate_threshold": -38.0,
+    "gate_attack": 4.0,
+    "gate_release": 100.0,
+    "denoise_enabled": true,
+    "denoise_strength": 0.8,
+    "hpf_enabled": true,
+    "hpf_cutoff": 120.0,
+    "lpf_enabled": true,
+    "lpf_cutoff": 12000.0,
+    "comp_enabled": true,
+    "comp_threshold": -15.0,
+    "comp_ratio": 6.0,
+    "comp_attack": 5.0,
+    "comp_release": 100.0,
+    "limiter_enabled": true,
+    "limiter_threshold": -1.5,
+    "gain_db": 4.0
+}

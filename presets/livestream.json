@@ -1,0 +1,22 @@
+{
+    "name": "Livestream",
+    "description": "Otimizado para transmissão ao vivo. Gate suave, mais tolerante a variações.",
+    "gate_enabled": true,
+    "gate_threshold": -40.0,
+    "gate_attack": 3.0,
+    "gate_release": 120.0,
+    "denoise_enabled": false,
+    "denoise_strength": 0.5,
+    "hpf_enabled": true,
+    "hpf_cutoff": 80.0,
+    "lpf_enabled": true,
+    "lpf_cutoff": 17000.0,
+    "comp_enabled": true,
+    "comp_threshold": -22.0,
+    "comp_ratio": 3.0,
+    "comp_attack": 8.0,
+    "comp_release": 200.0,
+    "limiter_enabled": true,
+    "limiter_threshold": -2.0,
+    "gain_db": 2.0
+}

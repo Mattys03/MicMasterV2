@@ -1,0 +1,22 @@
+{
+    "name": "YouTube / Podcast",
+    "description": "Otimizado para gravação de vídeos e podcasts. Gate agressivo, compressão moderada.",
+    "rnnoise_enabled": true,
+    "rnnoise_vad_threshold": 0.60,
+    "rnnoise_grace_period": 20.0,
+    "eq_enabled": true,
+    "eq_bass_gain": 4.0,
+    "eq_treble_gain": 2.5,
+    "hpf_enabled": true,
+    "hpf_cutoff": 100.0,
+    "lpf_enabled": true,
+    "lpf_cutoff": 16000.0,
+    "comp_enabled": true,
+    "comp_threshold": -18.0,
+    "comp_ratio": 4.0,
+    "comp_attack": 10.0,
+    "comp_release": 150.0,
+    "limiter_enabled": true,
+    "limiter_threshold": -1.0,
+    "gain_db": 3.0
+}

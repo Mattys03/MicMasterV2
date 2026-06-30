@@ -1,0 +1,25 @@
+{
+    "in_name": "🎤 CABLE Output (VB-Audio Virtual Cable)",
+    "out_name": "🔊 1970W-1 (NVIDIA High Definition Audio)",
+    "preset_name": "YouTube / Podcast",
+    "engine_active": false,
+    "bypass_active": false,
+    "monitor_active": false,
+    "last_state": {
+        "gate_enabled": true,
+        "gate_threshold": -35.0,
+        "gate_release": 80.0,
+        "hpf_enabled": true,
+        "hpf_cutoff": 100.0,
+        "lpf_enabled": true,
+        "lpf_cutoff": 16000.0,
+        "comp_enabled": true,
+        "comp_threshold": -18.0,
+        "comp_ratio": 4.0,
+        "comp_attack": 10.0,
+        "comp_release": 150.0,
+        "limiter_enabled": true,
+        "limiter_threshold": -1.0,
+        "gain_db": 3.0
+    }
+}
