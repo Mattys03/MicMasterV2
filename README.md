@@ -1,5 +1,11 @@
 # MicMaster Pro
 
+<div align="center">
+  <a href="https://github.com/Mattys03/MicMasterV2/archive/refs/heads/master.zip">
+    <img src="https://img.shields.io/badge/📥_Download_Latest_Version-0078D4?style=for-the-badge&logo=github" alt="Download ZIP" />
+  </a>
+</div>
+
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-purple)
