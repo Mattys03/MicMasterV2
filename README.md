@@ -9,6 +9,7 @@
 ![Platform](https://img.shields.io/badge/Plataforma-Windows-blue)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-green)
 ![License](https://img.shields.io/badge/Licen%C3%A7a-MIT-purple)
+[![Python application](https://github.com/Mattys03/MicMasterV2/actions/workflows/python-app.yml/badge.svg)](https://github.com/Mattys03/MicMasterV2/actions/workflows/python-app.yml)
 
 **MicMaster Pro** é um painel de controle *Desktop* completo para diagnóstico e gerenciamento de sistemas de áudio. Construído em Python com interface Tkinter, a aplicação visa oferecer um ambiente profissional para monitorar captação de microfone, visualizar níveis de sinal e salvar perfis (presets) personalizados.
 
