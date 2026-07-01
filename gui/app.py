@@ -10,6 +10,7 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog
 
 import customtkinter as ctk
+import sounddevice as sd
 
 import os
 from core.audio_engine import AudioEngine
